@@ -1,22 +1,22 @@
 
 
-![1561810618458](ADF4351笔记.assets/1561810618458.png)
+![1561810618458](https://github.com/Ryushane/ADF4351-ESP32-SPI/blob/master/Pictures/1561810618458.png)
 
 芯片引脚定义
 
 分频器
 
-PHASE FREQUENCY DETECTOR (PFD)![img](ADF4351笔记.assets/12152-33252-01.gif)
+PHASE FREQUENCY DETECTOR (PFD)![img](https://github.com/Ryushane/ADF4351-ESP32-SPI/blob/master/Pictures/12152-33252-01.gif)
 
-![img](ADF4351笔记.assets/12152-33253-02.gif)
+![img](https://github.com/Ryushane/ADF4351-ESP32-SPI/blob/master/Pictures/12152-33253-02.gif)
 
-![1561812029565](ADF4351笔记.assets/1561812029565.png)
+![1561812029565](https://github.com/Ryushane/ADF4351-ESP32-SPI/blob/master/Pictures/1561812029565.png)
 
-![img](ADF4351笔记.assets/12152-33254-03.gif)
+![img](https://github.com/Ryushane/ADF4351-ESP32-SPI/blob/master/Pictures/12152-33254-03.gif)
 
-![1561886139384](ADF4351笔记.assets/1561886139384.png)
+![1561886139384](https://github.com/Ryushane/ADF4351-ESP32-SPI/blob/master/Pictures/1561886139384.png)
 
-![1561886190343](ADF4351笔记.assets/1561886190343.png)
+![1561886190343](https://github.com/Ryushane/ADF4351-ESP32-SPI/blob/master/Pictures/1561886190343.png)
 
 Feedback Type
 
