@@ -37,21 +37,21 @@ Feedback Type
 
 > VCO的输出频率范围为2200MHz - 4400MHz
 
-![1561965947423](E:\ryush\Documents\Typora\电赛\assets\1561965947423.png)
+![1561965947423](https://github.com/Ryushane/ADF4351-ESP32-SPI/blob/master/Pictures/1561965947423.png)
 
-![1561994741914](E:\ryush\Documents\Typora\电赛\assets\1561994741914.png)
+![1561994741914](https://github.com/Ryushane/ADF4351-ESP32-SPI/blob/master/Pictures/1561994741914.png)
 
 **动态更新**
 
-![1561995493488](E:\ryush\Documents\Typora\电赛\assets\1561995493488.png)
+![1561995493488](https://github.com/Ryushane/ADF4351-ESP32-SPI/blob/master/Pictures/1561995493488.png)
 
-**设置寄存器**![1561995529954](E:\ryush\Documents\Typora\电赛\assets\1561995529954.png)
+**设置寄存器**![1561995529954](https://github.com/Ryushane/ADF4351-ESP32-SPI/blob/master/Pictures/1561995529954.png)
 
 
 
 **SPI写数据**
 
-![1561995561728](E:\ryush\Documents\Typora\电赛\assets\1561995561728.png)
+![1561995561728](https://github.com/Ryushane/ADF4351-ESP32-SPI/blob/master/Pictures/1561995561728.png)
 
 ## 2017年F题
 
