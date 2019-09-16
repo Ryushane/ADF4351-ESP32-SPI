@@ -1,26 +1,24 @@
 
 
-![1561810618458](https://github.com/Ryushane/ADF4351-ESP32-SPI/blob/master/Pictures/1561810618458.png)
+![1561810618458](https://raw.githubusercontent.com/Ryushane/ADF4351-ESP32-SPI/master/Pictures/1561810618458.png)
 
 芯片引脚定义
 
 分频器
 
-PHASE FREQUENCY DETECTOR (PFD)![img](https://github.com/Ryushane/ADF4351-ESP32-SPI/blob/master/Pictures/12152-33252-01.gif)
+PHASE FREQUENCY DETECTOR (PFD)![img](https://raw.githubusercontent.com/Ryushane/ADF4351-ESP32-SPI/master/Pictures/12152-33252-01.gif)
 
-![img](https://github.com/Ryushane/ADF4351-ESP32-SPI/blob/master/Pictures/12152-33253-02.gif)
+![img](https://raw.githubusercontent.com/Ryushane/ADF4351-ESP32-SPI/master/Pictures/12152-33253-02.gif)
 
-![1561812029565](https://github.com/Ryushane/ADF4351-ESP32-SPI/blob/master/Pictures/1561812029565.png)
+![1561812029565](https://raw.githubusercontent.com/Ryushane/ADF4351-ESP32-SPI/master/Pictures/1561812029565.png)
 
-![img](https://github.com/Ryushane/ADF4351-ESP32-SPI/blob/master/Pictures/12152-33254-03.gif)
+![img](https://raw.githubusercontent.com/Ryushane/ADF4351-ESP32-SPI/master/Pictures/12152-33254-03.gif)
 
-![1561886139384](https://github.com/Ryushane/ADF4351-ESP32-SPI/blob/master/Pictures/1561886139384.png)
+![1561886139384](https://raw.githubusercontent.com/Ryushane/ADF4351-ESP32-SPI/master/Pictures/1561886139384.png)
 
-![1561886190343](https://github.com/Ryushane/ADF4351-ESP32-SPI/blob/master/Pictures/1561886190343.png)
+![1561886190343](https://raw.githubusercontent.com/Ryushane/ADF4351-ESP32-SPI/master/Pictures/1561886190343.png)
 
 Feedback Type
-
-![1563623734640](assets/1563623734640.png)
 
 内部晶振100M
 
@@ -37,21 +35,21 @@ Feedback Type
 
 > VCO的输出频率范围为2200MHz - 4400MHz
 
-![1561965947423](https://github.com/Ryushane/ADF4351-ESP32-SPI/blob/master/Pictures/1561965947423.png)
+![1561965947423](https://raw.githubusercontent.com/Ryushane/ADF4351-ESP32-SPI/master/Pictures/1561965947423.png)
 
-![1561994741914](https://github.com/Ryushane/ADF4351-ESP32-SPI/blob/master/Pictures/1561994741914.png)
+![1561994741914](https://raw.githubusercontent.com/Ryushane/ADF4351-ESP32-SPI/master/Pictures/1561994741914.png)
 
 **动态更新**
 
-![1561995493488](https://github.com/Ryushane/ADF4351-ESP32-SPI/blob/master/Pictures/1561995493488.png)
+![1561995493488](https://raw.githubusercontent.com/Ryushane/ADF4351-ESP32-SPI/master/Pictures/1561995493488.png)
 
-**设置寄存器**![1561995529954](https://github.com/Ryushane/ADF4351-ESP32-SPI/blob/master/Pictures/1561995529954.png)
+**设置寄存器**![1561995529954](https://raw.githubusercontent.com/Ryushane/ADF4351-ESP32-SPI/master/Pictures/1561995529954.png)
 
 
 
 **SPI写数据**
 
-![1561995561728](https://github.com/Ryushane/ADF4351-ESP32-SPI/blob/master/Pictures/1561995561728.png)
+![1561995561728](https://raw.githubusercontent.com/Ryushane/ADF4351-ESP32-SPI/master/Pictures/1561995561728.png)
 
 ## 2017年F题
 
